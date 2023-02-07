@@ -10,13 +10,11 @@
 
 <body>
    <h1>
-
     <?php
         echo"Olá, mundo.";
     ?>
-    
    </h1>
-
+   
    <p>Livrando-me da maldição.</p>
 
 </body>
