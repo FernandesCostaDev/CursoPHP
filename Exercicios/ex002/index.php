@@ -6,14 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Informações</title>
 </head>
-<body>
 
+<body>
     <h1>Versão do PHP</h1>
 
     <?php
         phpinfo();
-    ?>
-    
-    
+    ?>   
 </body>
+
 </html>
